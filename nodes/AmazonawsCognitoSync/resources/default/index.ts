@@ -241,7 +241,7 @@ export const defaultDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Identity Pool Id",
+			"displayName": "Identity Pool ID",
 			"name": "IdentityPoolId",
 			"required": true,
 			"description": "A name-spaced GUID (for example, us-east-1:23EC4050-6AEA-7089-A2DD-08002EXAMPLE) created by Amazon Cognito. GUID generation is unique within a region.",
@@ -303,7 +303,7 @@ export const defaultDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Identity Pool Id",
+			"displayName": "Identity Pool ID",
 			"name": "IdentityPoolId",
 			"required": true,
 			"description": "A name-spaced GUID (for example, us-east-1:23EC4050-6AEA-7089-A2DD-08002EXAMPLE) created by Amazon Cognito. GUID generation is unique within a region.",
@@ -321,7 +321,7 @@ export const defaultDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Identity Id",
+			"displayName": "Identity ID",
 			"name": "IdentityId",
 			"required": true,
 			"description": "A name-spaced GUID (for example, us-east-1:23EC4050-6AEA-7089-A2DD-08002EXAMPLE) created by Amazon Cognito. GUID generation is unique within a region.",
@@ -401,7 +401,7 @@ export const defaultDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Identity Pool Id",
+			"displayName": "Identity Pool ID",
 			"name": "IdentityPoolId",
 			"required": true,
 			"description": "A name-spaced GUID (for example, us-east-1:23EC4050-6AEA-7089-A2DD-08002EXAMPLE) created by Amazon Cognito. GUID generation is unique within a region.",
@@ -419,7 +419,7 @@ export const defaultDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Identity Id",
+			"displayName": "Identity ID",
 			"name": "IdentityId",
 			"required": true,
 			"description": "A name-spaced GUID (for example, us-east-1:23EC4050-6AEA-7089-A2DD-08002EXAMPLE) created by Amazon Cognito. GUID generation is unique within a region.",
@@ -499,7 +499,7 @@ export const defaultDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Identity Pool Id",
+			"displayName": "Identity Pool ID",
 			"name": "IdentityPoolId",
 			"required": true,
 			"description": "A name-spaced GUID (for example, us-east-1:23EC4050-6AEA-7089-A2DD-08002EXAMPLE) created by Amazon Cognito. GUID generation is unique within a region.",
@@ -517,7 +517,7 @@ export const defaultDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Identity Id",
+			"displayName": "Identity ID",
 			"name": "IdentityId",
 			"required": true,
 			"description": "A name-spaced GUID (for example, us-east-1:23EC4050-6AEA-7089-A2DD-08002EXAMPLE) created by Amazon Cognito. GUID generation is unique within a region.",
@@ -577,7 +577,7 @@ export const defaultDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Device Id",
+			"displayName": "Device ID",
 			"name": "DeviceId",
 			"type": "string",
 			"default": "",
@@ -697,7 +697,7 @@ export const defaultDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Identity Pool Id",
+			"displayName": "Identity Pool ID",
 			"name": "IdentityPoolId",
 			"required": true,
 			"description": "A name-spaced GUID (for example, us-east-1:23EC4050-6AEA-7089-A2DD-08002EXAMPLE) created by Amazon Cognito. GUID generation is unique within a region.",
@@ -759,7 +759,7 @@ export const defaultDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Identity Pool Id",
+			"displayName": "Identity Pool ID",
 			"name": "IdentityPoolId",
 			"required": true,
 			"description": "A name-spaced GUID (for example, us-east-1:23EC4050-6AEA-7089-A2DD-08002EXAMPLE) created by Amazon Cognito. GUID generation is unique within a region.",
@@ -777,7 +777,7 @@ export const defaultDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Identity Id",
+			"displayName": "Identity ID",
 			"name": "IdentityId",
 			"required": true,
 			"description": "A name-spaced GUID (for example, us-east-1:23EC4050-6AEA-7089-A2DD-08002EXAMPLE) created by Amazon Cognito. GUID generation is unique within a region.",
@@ -839,7 +839,7 @@ export const defaultDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Identity Pool Id",
+			"displayName": "Identity Pool ID",
 			"name": "IdentityPoolId",
 			"required": true,
 			"description": "A name-spaced GUID (for example, us-east-1:23EC4050-6AEA-7089-A2DD-08002EXAMPLE) created by Amazon Cognito. GUID generation is unique within a region.",
@@ -901,7 +901,7 @@ export const defaultDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Identity Pool Id",
+			"displayName": "Identity Pool ID",
 			"name": "IdentityPoolId",
 			"required": true,
 			"description": "The Cognito Identity Pool ID for the request",
@@ -963,7 +963,7 @@ export const defaultDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Identity Pool Id",
+			"displayName": "Identity Pool ID",
 			"name": "IdentityPoolId",
 			"required": true,
 			"description": "The Cognito Identity Pool to use when configuring Cognito Events",
@@ -1051,7 +1051,7 @@ export const defaultDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Identity Pool Id",
+			"displayName": "Identity Pool ID",
 			"name": "IdentityPoolId",
 			"required": true,
 			"description": "A name-spaced GUID (for example, us-east-1:23EC4050-6AEA-7089-A2DD-08002EXAMPLE) created by Amazon Cognito. This is the ID of the pool for which to return a configuration.",
@@ -1113,7 +1113,7 @@ export const defaultDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Identity Pool Id",
+			"displayName": "Identity Pool ID",
 			"name": "IdentityPoolId",
 			"required": true,
 			"description": "A name-spaced GUID (for example, us-east-1:23EC4050-6AEA-7089-A2DD-08002EXAMPLE) created by Amazon Cognito. This is the ID of the pool to modify.",
@@ -1225,7 +1225,7 @@ export const defaultDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Identity Pool Id",
+			"displayName": "Identity Pool ID",
 			"name": "IdentityPoolId",
 			"required": true,
 			"description": "A name-spaced GUID (for example, us-east-1:23EC4050-6AEA-7089-A2DD-08002EXAMPLE) created by Amazon Cognito. GUID generation is unique within a region.",
@@ -1243,7 +1243,7 @@ export const defaultDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Identity Id",
+			"displayName": "Identity ID",
 			"name": "IdentityId",
 			"required": true,
 			"description": "A name-spaced GUID (for example, us-east-1:23EC4050-6AEA-7089-A2DD-08002EXAMPLE) created by Amazon Cognito. GUID generation is unique within a region.",
@@ -1449,7 +1449,7 @@ export const defaultDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Identity Pool Id",
+			"displayName": "Identity Pool ID",
 			"name": "IdentityPoolId",
 			"required": true,
 			"description": "A name-spaced GUID (for example, us-east-1:23EC4050-6AEA-7089-A2DD-08002EXAMPLE) created by Amazon Cognito. GUID generation is unique within a region.",
@@ -1467,7 +1467,7 @@ export const defaultDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Identity Id",
+			"displayName": "Identity ID",
 			"name": "IdentityId",
 			"required": true,
 			"description": "A name-spaced GUID (for example, us-east-1:23EC4050-6AEA-7089-A2DD-08002EXAMPLE) created by Amazon Cognito. GUID generation is unique within a region.",
@@ -1647,7 +1647,7 @@ export const defaultDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Identity Pool Id",
+			"displayName": "Identity Pool ID",
 			"name": "IdentityPoolId",
 			"required": true,
 			"description": "A name-spaced GUID (for example, us-east-1:23EC4050-6AEA-7089-A2DD-08002EXAMPLE) created by Amazon Cognito. Here, the ID of the pool that the identity belongs to.",
@@ -1665,7 +1665,7 @@ export const defaultDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Identity Id",
+			"displayName": "Identity ID",
 			"name": "IdentityId",
 			"required": true,
 			"description": "The unique ID for this identity.",
@@ -1797,7 +1797,7 @@ export const defaultDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Identity Pool Id",
+			"displayName": "Identity Pool ID",
 			"name": "IdentityPoolId",
 			"required": true,
 			"description": "A name-spaced GUID (for example, us-east-1:23EC4050-6AEA-7089-A2DD-08002EXAMPLE) created by Amazon Cognito. The ID of the pool to which the identity belongs.",
@@ -1815,7 +1815,7 @@ export const defaultDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Identity Id",
+			"displayName": "Identity ID",
 			"name": "IdentityId",
 			"required": true,
 			"description": "Unique ID for this identity.",
@@ -1851,7 +1851,7 @@ export const defaultDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Device Id",
+			"displayName": "Device ID",
 			"name": "DeviceId",
 			"required": true,
 			"description": "The unique ID generated for this device by Cognito.",
@@ -1913,7 +1913,7 @@ export const defaultDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Identity Pool Id",
+			"displayName": "Identity Pool ID",
 			"name": "IdentityPoolId",
 			"required": true,
 			"description": "A name-spaced GUID (for example, us-east-1:23EC4050-6AEA-7089-A2DD-08002EXAMPLE) created by Amazon Cognito. The ID of the pool to which this identity belongs.",
@@ -1931,7 +1931,7 @@ export const defaultDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Identity Id",
+			"displayName": "Identity ID",
 			"name": "IdentityId",
 			"required": true,
 			"description": "Unique ID for this identity.",
@@ -1967,7 +1967,7 @@ export const defaultDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Device Id",
+			"displayName": "Device ID",
 			"name": "DeviceId",
 			"required": true,
 			"description": "The unique ID generated for this device by Cognito.",

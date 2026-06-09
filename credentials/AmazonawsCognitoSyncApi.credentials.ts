@@ -8,7 +8,7 @@ import type {
 export class AmazonawsCognitoSyncApi implements ICredentialType {
 	name = 'N8nDevAmazonawsCognitoSyncApi';
 
-	displayName = 'amazonaws-cognito-sync API';
+	displayName = 'Amazonaws Cognito Sync API';
 
 	icon: Icon = { light: 'file:../nodes/AmazonawsCognitoSync/amazonaws-cognito-sync.png', dark: 'file:../nodes/AmazonawsCognitoSync/amazonaws-cognito-sync.dark.png' };
 
@@ -22,7 +22,7 @@ export class AmazonawsCognitoSyncApi implements ICredentialType {
 			default: '',
 			required: true,
 			placeholder: 'http://cognito-sync.us-east-1.amazonaws.com',
-			description: 'The base URL of your amazonaws-cognito-sync API server',
+			description: 'The base URL of your Amazonaws Cognito Sync API server',
 		},
 		{
 			displayName: 'API Key',

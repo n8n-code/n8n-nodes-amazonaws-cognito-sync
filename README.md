@@ -53,9 +53,28 @@ That's it. No configuration files. No code. It just works.
 
 ## Resources
 
-| Resource | Operations |
-|----------|------------|
-| Default | Post bulk publish, Delete dataset, Get describe dataset, Post update records, Get describe identity pool usage, Get describe identity usage, Post get bulk publish details, Get cognito events, Post set cognito events, Get identity pool configuration, Post set identity pool configuration, Get list datasets, Get list identity pool usage, Get list records, Post register device, Post subscribe to dataset, Delete unsubscribe from dataset |
+<details>
+<summary><b>Default</b> (17 operations)</summary>
+
+- Post Bulk Publish
+- Delete Dataset
+- Get Describe Dataset
+- Post Update Records
+- Get Describe Identity Pool Usage
+- Get Describe Identity Usage
+- Post Get Bulk Publish Details
+- Get Cognito Events
+- Post Set Cognito Events
+- Get Identity Pool Configuration
+- Post Set Identity Pool Configuration
+- Get List Datasets
+- Get List Identity Pool Usage
+- Get List Records
+- Post Register Device
+- Post Subscribe To Dataset
+- Delete Unsubscribe From Dataset
+
+</details>
 
 ---
 

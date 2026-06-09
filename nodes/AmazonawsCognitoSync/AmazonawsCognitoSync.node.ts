@@ -3,14 +3,14 @@ import { defaultDescription } from './resources/default';
 
 export class AmazonawsCognitoSync implements INodeType {
 	description: INodeTypeDescription = {
-		displayName: 'amazonaws-cognito-sync',
+		displayName: 'Amazonaws Cognito Sync',
 		name: 'N8nDevAmazonawsCognitoSync',
 		icon: { light: 'file:./amazonaws-cognito-sync.png', dark: 'file:./amazonaws-cognito-sync.dark.png' },
 		group: ['input'],
 		version: 1,
 		subtitle: '={{\$parameter["operation"] + ": " + \$parameter["resource"]}}',
-		description: 'Amazon Cognito Sync Amazon Cognito Sync provides an AWS service and client library that enable cross-device syncing of application-related user data. High-level client libra..',
-		defaults: { name: 'amazonaws-cognito-sync' },
+		description: 'AWS service and client library for cross-device user data synchronization.',
+		defaults: { name: 'Amazonaws Cognito Sync' },
 		usableAsTool: true,
 		inputs: [NodeConnectionTypes.Main],
 		outputs: [NodeConnectionTypes.Main],
